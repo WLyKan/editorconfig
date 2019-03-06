@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules/
+.idea
+.vscode
+.DS_Store
+
+# 个人使用的配置文件，不上传git
+# @author:King. Date:2018-11-09 16:01
+# .eslintrc.js
+# .editorconfig
+/typings
